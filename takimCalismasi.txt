@@ -33,7 +33,7 @@ ARDUİNO İLE NELER YAPILABİLİR
 9-Ultrasonik Sensör ile Hırsız Alarmı Projesi
 10-Servo Kontrol Uygulamaları
 11-Akıllı Su Deposu uygulaması
-12-Akvaryum Dolum Uygulaması
+12-Akvaryum dolum Uygulaması
 13-Sıvı Deposu Doluluk Tespit Projesi
 14-PID Sıcaklık ve Nem Kontrol Projesi
 15-Toprak Nem Ölçüm Uygulaması
