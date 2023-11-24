@@ -61,7 +61,7 @@ SG90 Servo Motor x 1
 2X16 LCD Ekran x 1
 i2c Karakter Dönüştürücü Kartı x 1
 DHT11 Isı ve Nem Sensör Kartı x 1
-4'lü 5V Röle Kartı x 1
+4 lü 5V Röle Kartı x 1
 5mm Kırmızı Led x 1
 5mm Yeşil Led x 1
 Buzzer x 1
