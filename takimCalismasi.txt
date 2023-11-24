@@ -17,4 +17,4 @@ Arduino ile sensörlerden gelen verileri okuyabilir ve bu girdilere göre elektr
 örneğin LED'leri yakıp söndürebilir ya da motoru çalıştırabiliriz 
 Bu sayede çeşitli robotlar ve elektronik sistemler tasarlanabilir. 
 Kısacası Arduino ile robotik, drone, otomasyon sistemleri, akıllı sistemler 
-uzaktan kumandalı araçlar, giyilebilir teknoloji projeleri ve sayısız birçok proje yapılabilir.
+uzaktan kumandalı araçlar giyilebilir teknoloji projeleri ve sayısız birçok proje yapılabilir.
