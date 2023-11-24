@@ -5,3 +5,4 @@ Bu projede Arduino kullandık.
 Çalışma şekli ise sırasıyla 
 1- Kapının üzerine bir adet Hareket sensörü yerleştiriyoruz.
 2- Yerleştirdiğimiz sensörün kapı ile öğrencilerin bulundukları noktaya göre ölçüsünü Arduino ile entegre ediyoruz.
+3- Ölçü alındıktan sonra kapının kilit kısmını söküyoruz ve yerine otomatik kapı kilidi koyuyoruz.
