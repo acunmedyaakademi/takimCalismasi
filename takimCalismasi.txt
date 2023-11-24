@@ -43,3 +43,37 @@ ARDUİNO İLE NELER YAPILABİLİR
 19-Baraj Taşkın Projesi
 20-Akıllı Saksı uygulaması
 
+
+ARDUİNO SİTEMİ İÇERİSİNDE NELER VAR
+
+
+Set İçeriğinde Neler Var ?
+Arduino UNO SMD + USB KABLO x 1 
+Toprak Nem Sensör Kartı x 1
+HC-SR04 Ultrasonik Sensör x 1
+Ultrasonik Sensör Aparatı x 1
+5V Tekli Röle Kartı x 1
+Mini Dalgıç Su Pompası x 1
+2-30 cm IR Sensör x 1
+12V Fan x 1
+Su Seviye Sensörü x 1
+SG90 Servo Motor x 1
+2X16 LCD Ekran x 1
+i2c Karakter Dönüştürücü Kartı x 1
+DHT11 Isı ve Nem Sensör Kartı x 1
+4'lü 5V Röle Kartı x 1
+5mm Kırmızı Led x 1
+5mm Yeşil Led x 1
+Buzzer x 1
+12v Halojen Ampul x 1
+G4 Seramik Duy x 1
+Tach Buton x 1
+330 ohm Direnç x 1
+Montaj Kablosu x 1
+Jumper Kablo Seti x 1
+9V Pil Klipsi x 1
+5mm LDR x 1
+On Off Anahtar x 1
+Mini Breadboard x 1
+50cm Hortum x 1
+Uygulama Plakası x 1
