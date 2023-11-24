@@ -2,3 +2,4 @@
 Projemizin adı AKILLI KAPI .
 Projemizi yapma amacımız Okullarda koridora açılan kapılardan dolayı oluşabilecek kazaların önüne geçmek.
 Bu projede Arduino kullandık.
+Çalışma şekli ise sırasıyla 
