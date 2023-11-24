@@ -41,5 +41,5 @@ ARDUİNO İLE NELER YAPILABİLİR
 17-Dijital Boy Ölçer
 18-Akıllı Sera Projesi
 19-Baraj Taşkın Projesi
-20-Akıllı Saksı Uygulaması
+20-Akıllı Saksı uygulaması
 
