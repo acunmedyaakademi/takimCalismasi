@@ -8,3 +8,72 @@ Bu projede Arduino kullandık.
 3- Ölçü alındıktan sonra kapının kilit kısmını söküyoruz ve yerine otomatik kapı kilidi koyuyoruz.
 4- Kilit kısmı da değiştirildikten sonra Sensör ve Kilit arsında koblolama işlemiyle sistemi aktif ediyoruz.
 5- Ve Hareket sensörü koridorda ki öğrencileri gördüğü zaman sınıf kapısı kilitleniyor,oluşabilecek ufak da olsa kazalar önlenmiş oluyor.
+
+
+Arduino nedir ve ne işe yarar?
+
+Arduino Nedir? Arduino, açık kaynak kodlu yazılım ve donanıma sahip bir mikrodenetleyici platformudur. 
+Arduino ile sensörlerden gelen verileri okuyabilir ve bu girdilere göre elektronik cihazları kontrol edebilir 
+örneğin LED'leri yakıp söndürebilir ya da motoru çalıştırabiliriz 
+Bu sayede çeşitli robotlar ve elektronik sistemler tasarlanabilir. 
+Kısacası Arduino ile robotik, drone, otomasyon sistemleri, akıllı sistemler 
+uzaktan kumandalı araçlar giyilebilir teknoloji projeleri ve sayısız birçok proje yapılabilir.
+
+
+ARDUİNO İLE NELER YAPILABİLİR
+
+1-Arduino ile Led yak söndür uygulaması
+2-Buton Kontrollü Uygulamalar
+3-Röle Kontrollü Uygulamalar
+4-LCD Ekran Uygulamaları
+5-Otopark Projesi
+6-Otomatik Kapı Projesi
+7-Gece Lambası Projesi
+8-Dijital Termometre Uygulaması
+9-Ultrasonik Sensör ile Hırsız Alarmı Projesi
+10-Servo Kontrol Uygulamaları
+11-Akıllı Su Deposu uygulaması
+12-Akvaryum dolum Uygulaması
+13-Sıvı Deposu Doluluk Tespit Projesi
+14-PID Sıcaklık ve Nem Kontrol Projesi
+15-Toprak Nem Ölçüm Uygulaması
+16-Otomatik Dezenfektan Uygulaması
+17-Dijital Boy Ölçer
+18-Akıllı Sera Projesi
+19-Baraj Taşkın Projesi
+20-Akıllı Saksı uygulaması
+
+
+ARDUİNO SİTEMİ İÇERİSİNDE NELER VAR
+
+
+Set İçeriğinde Neler Var ?
+Arduino UNO SMD + USB KABLO x 1 
+Toprak Nem Sensör Kartı x 1
+HC-SR04 Ultrasonik Sensör x 1
+Ultrasonik Sensör Aparatı x 1
+5V Tekli Röle Kartı x 1
+Mini Dalgıç Su Pompası x 1
+2-30 cm IR Sensör x 1
+12V Fan x 1
+Su Seviye Sensörü x 1
+SG90 Servo Motor x 1
+2X16 LCD Ekran x 1
+i2c Karakter dönüştürücü Kartı x 1
+DHT11 Isı ve Nem Sensör Kartı x 1
+4 lü 5V Röle Kartı x 1
+5mm Kırmızı Led x 1
+5mm Yeşil Led x 1
+Buzzer x 1
+12v Halojen Ampul x 1
+G4 Seramik Duy x 1
+Tach Buton x 1
+330 ohm Direnç x 1
+Montaj Kablosu x 1
+Jumper Kablo Seti x 1
+9V Pil Klipsi x 1
+5mm LDR x 1
+On Off Anahtar x 1
+Mini Breadboard x 1
+50cm Hortum x 1
+Uygulama Plakası x 1
