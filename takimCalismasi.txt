@@ -21,3 +21,25 @@ uzaktan kumandalı araçlar giyilebilir teknoloji projeleri ve sayısız birçok
 
 
 ARDUİNO İLE NELER YAPILABİLİR
+
+1-Arduino ile Led yak söndür uygulaması
+2-Buton Kontrollü Uygulamalar
+3-Röle Kontrollü Uygulamalar
+4-LCD Ekran Uygulamaları
+5-Otopark Projesi
+6-Otomatik Kapı Projesi
+7-Gece Lambası Projesi
+8-Dijital Termometre Uygulaması
+9-Ultrasonik Sensör ile Hırsız Alarmı Projesi
+10-Servo Kontrol Uygulamaları
+11-Akıllı Su Deposu uygulaması
+12-Akvaryum Dolum Uygulaması
+13-Sıvı Deposu Doluluk Tespit Projesi
+14-PID Sıcaklık ve Nem Kontrol Projesi
+15-Toprak Nem Ölçüm Uygulaması
+16-Otomatik Dezenfektan Uygulaması
+17-Dijital Boy Ölçer
+18-Akıllı Sera Projesi
+19-Baraj Taşkın Projesi
+20-Akıllı Saksı Uygulaması
+
