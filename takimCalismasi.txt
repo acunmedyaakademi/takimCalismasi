@@ -4,3 +4,4 @@ Projemizi yapma amacımız Okullarda koridora açılan kapılardan dolayı oluş
 Bu projede Arduino kullandık.
 Çalışma şekli ise sırasıyla 
 1- Kapının üzerine bir adet Hareket sensörü yerleştiriyoruz.
+2- Yerleştirdiğimiz sensörün kapı ile öğrencilerin bulundukları noktaya göre ölçüsünü Arduino ile entegre ediyoruz.
