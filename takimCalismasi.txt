@@ -8,3 +8,6 @@ Bu projede Arduino kullandık.
 3- Ölçü alındıktan sonra kapının kilit kısmını söküyoruz ve yerine otomatik kapı kilidi koyuyoruz.
 4- Kilit kısmı da değiştirildikten sonra Sensör ve Kilit arsında koblolama işlemiyle sistemi aktif ediyoruz.
 5- Ve Hareket sensörü koridorda ki öğrencileri gördüğü zaman sınıf kapısı kilitleniyor,oluşabilecek ufak da olsa kazalar önlenmiş oluyor.
+
+
+Arduino nedir ve ne işe yarar?
